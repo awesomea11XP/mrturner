@@ -22,3 +22,8 @@ for i in range(0, len(name)):
     print(name[i])
 
 print(name[:52])
+
+for i in range(0, len(name)+1):
+    print(name[0:i])
+
+print("d" in name)
