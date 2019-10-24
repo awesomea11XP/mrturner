@@ -1,1 +1,12 @@
+firstName = "John "
+lastName = "Madden"
 
+print(firstName + lastName)
+
+def rowurboat():
+    print("row, "*3 +"your boat")
+    print("sneak up in the stream")
+    print("lock n' load tactic mode")
+    print("united states marine")
+
+rowurboat()
